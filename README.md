@@ -6,7 +6,7 @@
 ### Instalación de la extensión
 Se ha instalado la extension **HTTP Header** en el navegador **Brave**, la cual permite capturar y analizar el tráfico HTTP generado durante la navegación web.
 
-![Captura extensión instalada](/ExtencionInstalada.png)
+![Captura extensión instalada](/img/ExtencionInstalada.png)
 
 ## Parte 2: Captura de peticiones HTTP
 Para esta parte se ha activado la captura de tráfico HTTP mediante la extensión **HTTP Header**
@@ -16,19 +16,19 @@ y se ha navegado a tres URLs distintas del mismo dominio.
 
 ### Petición HTTP capturada
 
-![Captura URL A](/CapturaGET-200.png)
+![Captura URL A](/img/CapturaGET-200.png)
 
 ## URL B: https://librebits.info/404
 
 ### Petición HTTP capturada
 
-![Captura URL B](/CapturaGET-404.png)
+![Captura URL B](/img/CapturaGET-404.png)
 
 ## URL C: https://docs.google.com/forms/u/0/d/e/1FAIpQLSezxy_6IX8cr0QFflO0ZODlYyrLoV8YGdUl7Dw55It-O03Tpw/formResponse
 
 ### Peticion HTTP capturada
 
-![Captura URL C](/CapturaPOST.png)
+![Captura URL C](/img/CapturaPOST.png)
 
 ## Análisis de los elementos capturados
 
@@ -56,12 +56,12 @@ Permite al servidor adaptar el contenido de forma más controlada.
 
 ### Petición GET - 200
 
-![URL A](/CapturaGET-200-2.png)
+![URL A](/img/CapturaGET-200-2.png)
 
 
 ### Petición GET - 404
 
-![URL B](/CapturaGET-404-2.png)
+![URL B](/img/CapturaGET-404-2.png)
 
 ## Análisis de los elementos capturados:
 
@@ -77,7 +77,7 @@ Permite al servidor adaptar el contenido de forma más controlada.
 
 ### DNS Lookup de librebits.info 
 
-![DNS librebits](/Librebit-DNS.png)
+![DNS librebits](/img//Librebit-DNS.png)
 
 ### Informacion del DNS
 
@@ -98,11 +98,11 @@ La coincidencia entre los NS del dominio y los del nivel padre confirma una conf
 
 ### Petición a un PNG
 
-![Captura png](/CapturaAdicional-1.png)
+![Captura png](/img/CapturaAdicional-1.png)
 
 ### Petición a un CSS
 
-![Captura css](/CapturaAdicional-2.png)
+![Captura css](/img/CapturaAdicional-2.png)
 
 ### Diferencias en el Content-Type
 
